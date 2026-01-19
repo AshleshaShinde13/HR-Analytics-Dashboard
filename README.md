@@ -1,3 +1,7 @@
+**PROBLEM STATEMENT**
+
+HR teams struggled to easily track and analyze employee data such as headcount, salaries, diversity, and hiring trends. This project involved building a Power BI HR Analytics dashboard that brings all key HR metrics into one interactive view, helping teams make better, data-driven workforce decisions.
+
 **PROJECT OVERVIEW**
 
 The project features an HR Analytics Dashboard built using Power BI to analyze workforce demographics, compensation, and hiring trends. The dashboard provides interactive insights into 
